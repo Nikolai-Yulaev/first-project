@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<style>
+ol {
+	color: green;
+    background-color: purple;
+}
+#title {
+	color: orange;
+}
+</style>
+<body>
+<h1 id="title"> This is why cats > dogs</h1>
+<h2>Its not that dogs are bad, its just cats are better</h2>
+<p>And here's why</p>
+<ol>
+<h3>1. They can climb up to bunk/loft beds</h3>
+<h3>2. They know how to go to the bathroom from birth, no training required</h3>
+<h3>3. they can sit on your lap an purr, which is just a mini-massage</h3>
+<h3></h3>
+
+</ol>
+</body>
+
+</html>
